@@ -61,9 +61,9 @@ Exploração de estruturas de dados como árvores AVL, heaps e hash tables para 
 
 Para dúvidas, sugestões ou contribuições, entre em contato:
 
-- **Nome:** [Maria Maia]
-- **Email:** [mariawendelmaia@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/maria-eduarda-wendel-maia]
+- **Nome:** Maria Maia
+- **Email:** mariawendelmaia@gmail.com
+- **LinkedIn:** www.linkedin.com/in/maria-eduarda-wendel-maia
 
 ---
 
