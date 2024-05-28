@@ -1,5 +1,9 @@
 # 📚 Projeto e Otimização de Algoritmos
 
+<div align="center">
+<img width="300" height="200" src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif">
+</div>
+
 Bem-vindo ao repositório da disciplina de **Projeto e Otimização de Algoritmos** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos e exercícios que exploram diversas técnicas e estratégias para o desenvolvimento e a melhoria de algoritmos eficientes.
 
 ## 🌟 Visão Geral
