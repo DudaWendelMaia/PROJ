@@ -27,13 +27,11 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 ├── 📁 Trabalho2
 │   ├── 📄 README.md
 │   ├── 📄 Relatório.pdf
-│   ├── 📄 CodigoFonte.py
-│   └── 📄 Testes.txt
+│   └── 📄 CodigoFonte.java
 ├── 📁 Trabalho3
 │   ├── 📄 README.md
 │   ├── 📄 Relatório.pdf
-│   ├── 📄 CodigoFonte.java
-│   └── 📄 Testes.txt
+│   └── 📄 CodigoFonte.java
 └── 📄 README.md
 ```
 
