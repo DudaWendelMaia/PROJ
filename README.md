@@ -21,14 +21,14 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 
 ```
 📦 Projeto-Otimização-Algoritmos
+├── 📁 Ex Backtracking
+│   ├── 📄 NQueens.java
+│   └── 📄 README.md
 ├── 📁 Trabalho1
-│   ├── 📄 README.md
-│   └── 📄 CodigoFonte.java
-├── 📁 Trabalho2
 │   ├── 📄 README.md
 │   ├── 📄 Relatório.pdf
 │   └── 📄 CodigoFonte.java
-├── 📁 Trabalho3
+├── 📁 Trabalho2
 │   ├── 📄 README.md
 │   ├── 📄 Relatório.pdf
 │   └── 📄 CodigoFonte.java
@@ -52,6 +52,9 @@ Para explorar os trabalhos:
 
 ### Trabalho 1: algoritmos greedy e de divisão e conquista
 Este primeiro trabalho consiste no desenho, análise e implementação de algoritmos greedy e de divisão e conquista.
+
+### Exercício Backtracking
+Este exercício consiste em posicionar N rainhas em um tabuleiro de xadrez NxN de maneira que nenhuma rainha ataque outra.
 
 ## 📫 Contato
 
