@@ -1,9 +1,11 @@
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class NQueens {
 
     // contagem de quantas soluções pode ter
     private static int sol = 0;
+    private static boolean encontrouPrimeiraSolucao = false;
 
     // tabuleiro
     private static void mostrarTabuleiro(ArrayList<ArrayList<Integer>> tab, int N) {
@@ -12,7 +14,7 @@ public class NQueens {
                 if (tab.get(i).get(j) == 1) {
                     System.out.print("Q\t");
                 } else {
-                    System.out.print("*\t");
+                    System.out.print(".\t");
                 }
             }
             System.out.println("\n");
@@ -66,12 +68,13 @@ public class NQueens {
         return true;
     }
 
-    private static void executar(ArrayList<ArrayList<Integer>> tab, int N, int col) {
+    private static void executar(ArrayList<ArrayList<Integer>> tab, int N, int col, boolean apenasPrimeira) {
         if (col == N) {
-            System.out.println(" -------------------------------------------------- ");
+            System.out.println("----------------------------------------------------------");
             System.out.println("Solucao " + (sol + 1) + ":\n");
             mostrarTabuleiro(tab, N);
             sol++;
+            encontrouPrimeiraSolucao = true;
             return;
         }
 
@@ -82,7 +85,12 @@ public class NQueens {
                 tab.get(i).set(col, 1);
 
                 // chamada recursiva
-                executar(tab, N, col + 1);
+                executar(tab, N, col + 1, apenasPrimeira);
+
+                // se o usuário escolheu apenas a primeira solução e já encontramos uma solução, saímos
+                if (apenasPrimeira && encontrouPrimeiraSolucao) {
+                    return;
+                }
 
                 // remove a rainha (backtracking)
                 tab.get(i).set(col, 0);
@@ -91,6 +99,14 @@ public class NQueens {
     }
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("----------------------------");
+        System.out.println("Escolha uma opcao:");
+        System.out.println("1) Apenas a primeira solucao");
+        System.out.println("2) Todas as solucoes");
+        System.out.println("----------------------------");
+        int opcao = scanner.nextInt();
+
         // número de rainhas
         int N = 8;
 
@@ -106,10 +122,15 @@ public class NQueens {
             tab.add(linha);
         }
 
-        // imprime todas as soluções
-        executar(tab, N, 0);
+        // verifica a opção do usuário
+        boolean apenasPrimeira = opcao == 1;
+
+        // imprime as soluções de acordo com a escolha do usuário
+        executar(tab, N, 0, apenasPrimeira);
 
         // imprime a quantidade de soluções
         System.out.println("\nSolucoes encontradas -> " + sol);
+
+        scanner.close();
     }
 }
