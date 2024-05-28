@@ -50,8 +50,8 @@ Para explorar os trabalhos:
 
 ## 🚀 Trabalhos Destaques
 
-### Trabalho 1: Algoritmo de Ordenação Otimizado
-Implementação e análise de um algoritmo de ordenação com ênfase na redução do tempo de execução e eficiência em memória.
+### Trabalho 1: algoritmos greedy e de divisão e conquista
+Este primeiro trabalho consiste no desenho, análise e implementação de algoritmos greedy e de divisão e conquista.
 
 ### Trabalho 2: Caminho Mínimo em Grafos
 Desenvolvimento de algoritmos para encontrar o caminho mínimo em grafos, utilizando técnicas como Dijkstra e Bellman-Ford.
