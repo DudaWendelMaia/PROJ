@@ -1,5 +1,9 @@
 # 👑 Problema das N-Rainhas
 
+<div align="center">
+<img width="300" height="200" src="https://img.freepik.com/fotos-premium/jogo-de-xadrez-com-rainha-dourada-e-pecas-de-xadrez-prateadas-em-fundo-escuro-representando-equipe-de-lideranca_908985-40886.jpg">
+</div>
+
 ## ℹ️ Informações
 - **Autores:** Maria Maia
 - **Data:** 27/05/2024
