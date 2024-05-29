@@ -6,6 +6,11 @@
 
 Bem-vindo ao repositório da disciplina de **Projeto e Otimização de Algoritmos** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos e exercícios que exploram diversas técnicas e estratégias para o desenvolvimento e a melhoria de algoritmos eficientes.
 
+- **Status:** Em andamento
+- **Realizada em:** 2024/01
+- **Nome:** Projeto e Otimização de Algoritmos
+- **Link:** https://github.com/DudaWendelMaia/PROJ.git
+
 ## 🌟 Visão Geral
 
 Este repositório é dedicado aos trabalhos realizados ao longo do curso de Projeto e Otimização de Algoritmos. A disciplina foca em:
@@ -34,11 +39,6 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 │   └── 📄 CodigoFonte.java
 └── 📄 README.md
 ```
-
-Cada pasta de trabalho contém no mínimo:
-
-- **README.md:** Explicação do trabalho, como executar o código e detalhes importantes.
-- **CodigoFonte.xxx:** Código-fonte desenvolvido para resolver o problema proposto.
 
 ## 🔧 Como Utilizar
 
