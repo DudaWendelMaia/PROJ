@@ -5,7 +5,7 @@
 </div>
 
 ## ℹ️ Informações
-- **Autores:** Maria Maia
+- **Autores:** Maria Maia e Marina Yamaguti
 - **Data:** 27/05/2024
 - **Linguagem:** Java
 - **Status:** Concluído
