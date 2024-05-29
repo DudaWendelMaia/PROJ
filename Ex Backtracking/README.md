@@ -48,7 +48,7 @@ Certifique-se de ter o JDK instalado. Clone o repositório e compile o código J
 
 2. Navegue até a pasta do projeto:
     ```sh
-    cd PROJ
+    cd "Ex Backtracking"
     ```
 
 3. Compile o código:
