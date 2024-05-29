@@ -6,6 +6,8 @@
 
 Bem-vindo ao repositório da disciplina de **Projeto e Otimização de Algoritmos** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos e exercícios que exploram diversas técnicas e estratégias para o desenvolvimento e a melhoria de algoritmos eficientes.
 
+## ℹ️ Informações
+
 - **Status:** Em andamento
 - **Realizada em:** 2024/01
 - **Nome:** Projeto e Otimização de Algoritmos
