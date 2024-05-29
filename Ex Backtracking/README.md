@@ -10,7 +10,7 @@
 - **Linguagem:** Java
 - **Status:** Concluído
 - **Descrição:** Solução do problema das n-rainhas utilizando algoritmo.
-- **Link:** [GitHub - Proj](https://github.com/DudaWendelMaia/Proj)
+- **Link:** https://github.com/DudaWendelMaia/PROJ.git
 
 ## 🎯 Problema
 O problema das n-rainhas é um desafio clássico de otimização combinatória. Consiste em posicionar n rainhas em um tabuleiro de xadrez NxN de modo que nenhuma rainha possa atacar outra.
@@ -43,12 +43,12 @@ Certifique-se de ter o JDK instalado. Clone o repositório e compile o código J
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/DudaWendelMaia/Proj
+    git clone https://github.com/DudaWendelMaia/PROJ.git
     ```
 
 2. Navegue até a pasta do projeto:
     ```sh
-    cd Proj
+    cd PROJ
     ```
 
 3. Compile o código:
