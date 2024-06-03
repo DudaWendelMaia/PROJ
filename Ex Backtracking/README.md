@@ -60,3 +60,7 @@ Certifique-se de ter o JDK instalado. Clone o repositório e compile o código J
     ```sh
       java NQueens
     ```
+
+---
+
+Espero que este trabalho tenha sido útil! ⭐🚀
