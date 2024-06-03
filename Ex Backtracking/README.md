@@ -1,7 +1,7 @@
 # 👑 Problema das N-Rainhas
 
 <div align="center">
-<img width="300" height="200" src="https://img.freepik.com/fotos-premium/jogo-de-xadrez-com-rainha-dourada-e-pecas-de-xadrez-prateadas-em-fundo-escuro-representando-equipe-de-lideranca_908985-40886.jpg">
+<img width="200" height="200" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif">
 </div>
 
 ## ℹ️ Informações
